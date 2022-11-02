@@ -5,7 +5,6 @@
 </p>
 
 ## <p align="center">Celery <img height=60 src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" align='center'> + <img height=20 src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" align='center'> + Flower</p>
-
 Deploy RabbitMQ: `docker-compose up --build -d`
 
 Run celery worker: `celery -A celery_worker.celery worker --loglevel=info`
