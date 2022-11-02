@@ -4,7 +4,7 @@
     <img height=150 src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" align='center'>
 </p>
 
-## Celery <img height=60 src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" align='center'> + <img height=20 src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" align='center'> + Flower
+## <p align="center">Celery <img height=60 src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" align='center'> + <img height=20 src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" align='center'> + Flower</p>
 
 Deploy RabbitMQ: `docker-compose up --build -d`
 
